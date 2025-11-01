@@ -30,8 +30,8 @@ const eslintConfig = [
       "@next/next/no-img-element": "off",
       "@next/next/no-html-link-for-pages": "off",
       
-      // 一般JavaScript规则
-      "prefer-const": "off",  // 关闭prefer-const规则
+      // 一般 JavaScript 规则
+      "prefer-const": "off",
       "no-unused-vars": "off",
       "no-console": "off",
       "no-debugger": "off",
@@ -49,3 +49,4 @@ const eslintConfig = [
 ];
 
 export default eslintConfig;
+
