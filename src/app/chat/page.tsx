@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Card, CardContent, CardHeader } from '@/components/ui/card'
-import { Heart, Send, Smile, Image, Check, CheckCheck, Camera, X, Mic, MicOff, Reply, ThumbsUp, Heart as HeartIcon, Laugh, Angry, Sad, Palette, ArrowDown, Sparkles, Maximize2, ZoomIn, ZoomOut } from 'lucide-react'
+import { Heart, Send, Smile, Image, Check, CheckCheck, Camera, X, Mic, MicOff, Reply, ThumbsUp, Heart as HeartIcon, Laugh, Angry, Frown, Palette, ArrowDown, Sparkles, Maximize2, ZoomIn, ZoomOut } from 'lucide-react'
 import TenorGifPicker from '@/components/TenorGifPicker'
 import StickerPicker from '@/components/StickerPicker'
 

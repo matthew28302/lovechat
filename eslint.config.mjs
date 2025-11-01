@@ -1,15 +1,11 @@
-import { dirname } from "path";
-import { fileURLToPath } from "url";
+// eslint.config.mjs
 import { FlatCompat } from "@eslint/eslintrc";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
 const compat = new FlatCompat({
-  baseDirectory: __dirname,
+  baseDirectory: import.meta.dirname,
 });
 
-const eslintConfig = [
+export default [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
   {
     rules: {
@@ -31,7 +27,7 @@ const eslintConfig = [
       "@next/next/no-html-link-for-pages": "off",
       
       // 一般JavaScript规则
-      "prefer-const": "off",  // 关闭prefer-const规则
+      "prefer-const": "off",
       "no-unused-vars": "off",
       "no-console": "off",
       "no-debugger": "off",
@@ -47,5 +43,3 @@ const eslintConfig = [
     },
   },
 ];
-
-export default eslintConfig;
