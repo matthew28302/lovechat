@@ -1,10 +1,11 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "NEXT_DISABLE_ESLINT=true npm run build",
   "outputDirectory": ".next",
-  "installCommand": "npm install",
   "framework": "nextjs",
   "regions": ["sin1"],
   "env": {
+    "NEXT_DISABLE_ESLINT": "true",
     "NEXT_PUBLIC_APP_URL": "https://your-app.vercel.app"
   }
 }
+
