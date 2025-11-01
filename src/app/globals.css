@@ -1,5 +1,10 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Nếu bạn muốn thêm hiệu ứng animate, thêm ở đây */
 @import "tw-animate-css";
+
 
 @custom-variant dark (&:is(.dark *));
 
