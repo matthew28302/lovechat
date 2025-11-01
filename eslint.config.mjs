@@ -1,32 +1,47 @@
 // eslint.config.mjs
-import { FlatCompat } from "@eslint/eslintrc";
-
-const compat = new FlatCompat({
-  baseDirectory: import.meta.dirname,
-});
+import typescript from '@typescript-eslint/eslint-plugin';
+import typescriptParser from '@typescript-eslint/parser';
+import react from 'eslint-plugin-react';
+import reactHooks from 'eslint-plugin-react-hooks';
+import next from '@next/eslint-plugin-next';
 
 export default [
-  ...compat.extends("next/core-web-vitals", "next/typescript"),
+  // Cấu hình chung cho tất cả các file
   {
+    files: ['**/*.{js,jsx,ts,tsx}'],
+    languageOptions: {
+      parser: typescriptParser,
+      parserOptions: {
+        ecmaVersion: 'latest',
+        sourceType: 'module',
+        ecmaFeatures: {
+          jsx: true,
+        },
+      },
+    },
+    plugins: {
+      '@typescript-eslint': typescript,
+      'react': react,
+      'react-hooks': reactHooks,
+      '@next/next': next,
+    },
     rules: {
-      // TypeScript 相关规则
+      // Kế thừa các quy tắc từ next/core-web-vitals
+      ...next.configs.recommended.rules,
+      ...next.configs['core-web-vitals'].rules,
+
+      // Các quy tắc tùy chỉnh của bạn
       "@typescript-eslint/no-explicit-any": "off",
       "@typescript-eslint/no-unused-vars": "off",
       "@typescript-eslint/no-non-null-assertion": "off",
       "@typescript-eslint/ban-ts-comment": "off",
       "@typescript-eslint/prefer-as-const": "off",
-      
-      // React 相关规则
       "react-hooks/exhaustive-deps": "off",
       "react/no-unescaped-entities": "off",
       "react/display-name": "off",
       "react/prop-types": "off",
-      
-      // Next.js 相关规则
       "@next/next/no-img-element": "off",
       "@next/next/no-html-link-for-pages": "off",
-      
-      // 一般JavaScript规则
       "prefer-const": "off",
       "no-unused-vars": "off",
       "no-console": "off",
@@ -40,6 +55,11 @@ export default [
       "no-undef": "off",
       "no-unreachable": "off",
       "no-useless-escape": "off",
+    },
+    settings: {
+      react: {
+        version: 'detect',
+      },
     },
   },
 ];
