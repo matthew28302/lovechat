@@ -1,0 +1,35 @@
+{
+  "name": "Chat Tình Yêu 💕",
+  "short_name": "LoveChat",
+  "description": "Ứng dụng chat riêng tư cho hai người",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf2f8",
+  "theme_color": "#ec4899",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "notifications": {
+    "actions": [
+      {
+        "action": "open",
+        "title": "Mở chat"
+      }
+    ]
+  }
+}

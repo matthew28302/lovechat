@@ -1,0 +1,1260 @@
+[33m[nodemon] 3.1.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): server.ts src/**/*[39m
+[33m[nodemon] watching extensions: ts,tsx,js,jsx[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.5s (785 modules)
+ GET / 200 in 5959ms
+ GET / 200 in 46ms
+ GET / 200 in 49ms
+ GET / 200 in 80ms
+ GET / 200 in 84ms
+ GET / 200 in 44ms
+ GET / 200 in 36ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 5419ms
+ GET / 200 in 50ms
+ GET / 200 in 41ms
+ GET / 200 in 60ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.1s (801 modules)
+ GET / 200 in 5504ms
+ GET / 200 in 56ms
+ ✓ Compiled /select-user in 497ms (780 modules)
+ GET /select-user 200 in 592ms
+ ✓ Compiled /_not-found in 233ms (784 modules)
+ GET /chat 404 in 274ms
+ GET /chat 404 in 82ms
+ GET / 200 in 59ms
+ GET / 200 in 45ms
+ GET / 200 in 61ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.5s (801 modules)
+ GET / 200 in 5958ms
+ GET / 200 in 59ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 3130ms
+ GET / 200 in 45ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 541ms (780 modules)
+ GET /select-user 200 in 630ms
+ ✓ Compiled /chat in 332ms (799 modules)
+ GET /chat 200 in 382ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 4.9s (801 modules)
+ GET / 200 in 5367ms
+[32m[nodemon] restarting due to changes...[39m
+User defined signal 2
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 5400ms
+ ✓ Compiled in 234ms (366 modules)
+ GET / 200 in 49ms
+ GET / 200 in 52ms
+ GET / 200 in 45ms
+ GET / 200 in 48ms
+ ✓ Compiled /select-user in 499ms (772 modules)
+ GET /select-user 200 in 599ms
+ ✓ Compiled /chat in 344ms (794 modules)
+ GET /chat 200 in 396ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.1s (801 modules)
+ GET / 200 in 5530ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 523ms (794 modules)
+ GET /select-user 200 in 613ms
+ ✓ Compiled /chat in 370ms (809 modules)
+ GET /chat 200 in 428ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET / 200 in 120ms
+ GET /select-user 200 in 23ms
+ GET /chat 200 in 15ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.4s (801 modules)
+ GET / 200 in 5891ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 636ms (786 modules)
+ GET /select-user 200 in 733ms
+ ✓ Compiled /chat in 420ms (804 modules)
+ GET /chat 200 in 478ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.1s (801 modules)
+ GET / 200 in 3692ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 623ms (794 modules)
+ GET /select-user 200 in 719ms
+ ✓ Compiled /chat in 413ms (813 modules)
+ GET /chat 200 in 464ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.3s (801 modules)
+ GET / 200 in 5734ms
+ GET / 200 in 50ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 528ms (794 modules)
+ GET /select-user 200 in 615ms
+ ✓ Compiled /chat in 369ms (813 modules)
+ GET /chat 200 in 429ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (801 modules)
+ GET / 200 in 5636ms
+ GET / 200 in 60ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 660ms (794 modules)
+ GET /select-user 200 in 755ms
+ ✓ Compiled /chat in 467ms (811 modules)
+ GET /chat 200 in 519ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (801 modules)
+ GET / 200 in 5652ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 656ms (794 modules)
+ GET /select-user 200 in 745ms
+ ✓ Compiled /chat in 394ms (809 modules)
+ GET /chat 200 in 450ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 5470ms
+ GET / 200 in 49ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 621ms (786 modules)
+ GET /select-user 200 in 710ms
+ ✓ Compiled /chat in 409ms (802 modules)
+ GET /chat 200 in 470ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled / in 182ms (417 modules)
+ GET / 200 in 443ms
+ GET / 200 in 41ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.1s (801 modules)
+ GET / 200 in 5574ms
+ GET / 200 in 50ms
+ GET / 200 in 68ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 690ms (794 modules)
+ GET /select-user 200 in 789ms
+ ✓ Compiled /chat in 429ms (809 modules)
+ GET /chat 200 in 480ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 4.9s (801 modules)
+ GET / 200 in 5179ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 5470ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 658ms (786 modules)
+ GET /select-user 200 in 761ms
+ ✓ Compiled /chat in 471ms (818 modules)
+ GET /chat 200 in 531ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled / in 196ms (417 modules)
+ GET / 200 in 432ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.3s (801 modules)
+ GET / 200 in 5714ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (801 modules)
+ GET / 200 in 5627ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 4.9s (801 modules)
+ GET / 200 in 5285ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (801 modules)
+ GET / 200 in 5688ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.1s (801 modules)
+ GET / 200 in 5558ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.3s (801 modules)
+ GET / 200 in 3610ms
+ GET / 200 in 49ms
+ GET / 200 in 45ms
+ GET / 200 in 58ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 672ms (786 modules)
+ GET /select-user 200 in 762ms
+ ○ Compiling /chat ...
+ ✓ Compiled /chat in 552ms (826 modules)
+ GET /chat 200 in 609ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /api/generate-sticker in 309ms (848 modules)
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 743ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 174ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 175ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 183ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 167ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 159ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 190ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 165ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 164ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 169ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 159ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 165ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 172ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 160ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 170ms
+Failed to make image generation request: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+Error generating sticker: Error: API request failed with status 400: {"error":{"code":"1214","message":"The width and height of size must be between 512px and 2048px, be a multiple of 16, and the maximum number of pixels must not exceed 2^21px"}}
+    at async POST (src/app/api/generate-sticker/route.ts:14:21)
+  12 |     const zai = await ZAI.create()
+  13 |
+> 14 |     const response = await zai.images.generations.create({
+     |                     ^
+  15 |       prompt: `${prompt}, sticker style, white background, high quality, cute, cartoon`,
+  16 |       size: '256x256'
+  17 |     })
+ POST /api/generate-sticker 500 in 163ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.1s (801 modules)
+ GET / 200 in 5566ms
+ GET / 200 in 49ms
+ GET / 200 in 51ms
+ GET / 200 in 75ms
+ GET / 200 in 74ms
+ GET / 200 in 60ms
+ GET / 200 in 46ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 603ms (794 modules)
+ GET /select-user 200 in 702ms
+ ○ Compiling /chat ...
+ ✓ Compiled /chat in 662ms (841 modules)
+ GET /chat 200 in 730ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 5442ms
+ GET / 200 in 62ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 657ms (794 modules)
+ GET /select-user 200 in 760ms
+ ○ Compiling /chat ...
+ ✓ Compiled /chat in 634ms (841 modules)
+ GET /chat 200 in 695ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 4.9s (801 modules)
+ GET / 200 in 5358ms
+ GET / 200 in 57ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 632ms (794 modules)
+ GET /select-user 200 in 725ms
+ ✓ Compiled /chat in 482ms (829 modules)
+ GET /chat 200 in 544ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+ ⚠ Invalid next.config.js options detected: 
+ ⚠     Unrecognized key(s) in object: 'default'
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+> Ready on http://0.0.0.0:3000
+> Socket.IO server running at ws://0.0.0.0:3000/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (801 modules)
+ GET / 200 in 5445ms
+ GET / 200 in 51ms
+ GET / 200 in 47ms
+ GET / 200 in 61ms
+ GET / 200 in 47ms
+ GET / 200 in 46ms
+ GET / 200 in 43ms
+ GET / 200 in 38ms
+ GET / 200 in 47ms
+ GET / 200 in 53ms
+ ○ Compiling /select-user ...
+ ✓ Compiled /select-user in 683ms (794 modules)
+ GET /select-user 200 in 775ms
+ ○ Compiling /chat ...
+ ✓ Compiled /chat in 656ms (839 modules)
+ GET /chat 200 in 711ms
+ ⚠ Cross origin request detected from preview-chat-39c535af-5bdb-4581-abac-0b4e37982977.space.z.ai to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
