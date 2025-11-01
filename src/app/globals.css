@@ -1,5 +1,11 @@
-@import "tailwindcss";
+/* src/app/globals.css (mới) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import "tw-animate-css";
+
+/* ... các CSS khác của bạn */
 
 @custom-variant dark (&:is(.dark *));
 
