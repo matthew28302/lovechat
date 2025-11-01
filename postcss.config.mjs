@@ -1,5 +1,13 @@
-const config = {
-  plugins: ["@tailwindcss/postcss"],
-};
+// postcss.config.mjs
 
-export default config;
+/** @type {import('postcss-load-config').Config} */
+const config = {
+  plugins: {
+    // Sử dụng plugin @tailwindcss/postcss cho Next.js 15
+    '@tailwindcss/postcss': {},
+    // Giữ lại autoprefixer
+    autoprefixer: {},
+  },
+}
+
+export default config
